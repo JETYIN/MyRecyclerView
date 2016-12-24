@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!--设置分割线渐变形式-->
+    <gradient
+        android:startColor="#00ff00"
+        android:centerColor="#dd0fdf"
+        android:endColor="#ff0000"
+        android:type="linear"
+        />
+<size android:height="2dp"/>
+</shape>
